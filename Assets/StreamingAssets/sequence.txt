@@ -1,0 +1,12 @@
+FPS : 30
+Format : YUYV
+Width : 640
+Height : 480
+NumberOfImage : 1205
+PlaybackCount : -1
+ImageNamePrefix : Image
+Extension : png
+IntrinsicsFX : 643.798
+IntrinsicsFY : 645.800
+IntrinsicsCX : 312.033
+IntrinsicsCY : 253.181
